@@ -1,0 +1,32 @@
+body {
+    background-color: burlywood;
+}
+
+h1 {
+    text-align: center;
+    color: maroon;
+}
+
+img.a {
+    width: 250px;
+    height: 250px;
+}
+
+p.b {
+    text-align: center;
+}
+
+img.c {
+    width: 250px;
+    height: 250px;
+}
+
+p.d {
+    text-align: right;
+}
+
+img.e {
+    width: 250px;
+    height: 250px;
+    
+}
